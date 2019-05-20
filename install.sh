@@ -65,7 +65,7 @@ fi
 
 
 echo 'Fetching theme archive'
-wget -O ${THEME}.zip https://github.com/shvchk/${THEME}/archive/master.zip
+wget -O ${THEME}.zip https://github.com/valeryan/${THEME}/archive/master.zip
 
 echo 'Unpacking theme'
 unzip ${THEME}.zip
